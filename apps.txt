@@ -1,0 +1,88 @@
+audobe ai
+audobe ps
+alacritty
+andriod studio
+auto hotkey
+blank explorer frame
+bluestack
+calibre
+cheat engine
+cloudflare warp
+darkest dungeon
+discord
+everything
+f.lux
+figma
+garena
+git
+github desktop
+google chrome
+GWSL
+idm
+listary
+llvm
+mailspring
+MS to do
+MS Visual studio Code
+MS Visual studio
+modern flyout
+node.js
+notion
+obs studio
+office
+powertoys
+python
+rainmeter
+snip & sketch
+spotify
+startisback ++
+turtle
+ubuntu
+UltraUXThemePatcher
+Unikey
+VMWare Workstation
+Winaero Tweaker
+Windir stat
+winrar
+Window terminal
+Wondershare Filmora
+
+
+***Other
+Chocolatey
+mingw
+scoop
+7zip
+autohokey
+coreutils
+dark
+fzf
+grep
+lessmsi
+llvm
+neovim-nightly
+nodejs
+qutebrowser
+ripgrep
+sudo
+touch
+
+
+**Theming
+old new explorer
+7tsp_gui
+big_sur 2
+blankit
+flare_2
+fluent
+msstyleEditor
+Simplyfy
+taskbarx
+tbiconblanker
+t-clock
+tileconfier
+startisback
+customizer god
+
+
+
